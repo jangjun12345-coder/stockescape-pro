@@ -1,2 +1,2 @@
 # stockescape-pro
-AI Stock Assistant
+AI Stock Assistant - 주식탈출 PRO
